@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerTradingExtractor", "PowerTradingExtractor\PowerTradingExtractor.csproj", "{B5A22F9A-EA0A-426C-BD54-A5DEF9D8C313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A22F9A-EA0A-426C-BD54-A5DEF9D8C313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A22F9A-EA0A-426C-BD54-A5DEF9D8C313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A22F9A-EA0A-426C-BD54-A5DEF9D8C313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A22F9A-EA0A-426C-BD54-A5DEF9D8C313}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06EA80CC-3254-4832-8063-BAE797D21CB9}
+	EndGlobalSection
+EndGlobal
